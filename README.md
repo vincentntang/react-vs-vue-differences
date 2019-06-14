@@ -8,6 +8,7 @@ These are notes detailing how implementations in React differ from Vue, for comm
 These notes are WIP (Work in progress) in table format
 
 Notes 
+
 |   |   |   |   |   |
 |---|---|---|---|---|
 |   |   |   |   |   |
